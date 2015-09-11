@@ -16,7 +16,8 @@
  * limitations under the License.
  */
 
-namespace Json;
+namespace sevensoft\json;
+
 
 use RuntimeException;
 use InvalidArgumentException;
