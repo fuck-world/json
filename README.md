@@ -8,7 +8,7 @@ To use the library, see the example below:
     <?php
     require_once 'vendor/autoload.php';
 
-    use Json\Json;
+    use sevensoft\json\Json;
 
     echo Json::encode("foo") . PHP_EOL;
     echo Json::encode(array('foo' => 'bar')) . PHP_EOL;
